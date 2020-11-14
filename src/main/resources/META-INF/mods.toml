@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="shinobicraft"
+version="1.0.0"
+displayName="ShinobiCraft"
+credits="Developed and Worked on by - Tobi Wan, Prioski."
+displayURL="https://www.curseforge.com/"
+authors="Tobi Wan"
+description='''
+A mod that ports many of the features from the world of Naruto to Minecraft.
+'''
+
+[[dependencies.shinobicraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "iron_katana-1.png"
+      },
+      "name": "default"
+    }
+  }
+}

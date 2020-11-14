@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/kunaiinhand",
+  "textures": {
+    "0": "shinobicraft:blocks/kunaitexmodel",
+    "particle": "shinobicraft:items/kunai"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "kusanagi-1.png"
+      },
+      "name": "default"
+    }
+  }
+}

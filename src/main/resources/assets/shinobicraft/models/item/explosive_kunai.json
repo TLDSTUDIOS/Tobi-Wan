@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/explosivekunai",
+  "textures": {
+    "0": "shinobicraft:blocks/explosivekunai",
+    "particle": "shinobicraft:items/explosivekunai"
+  }
+}

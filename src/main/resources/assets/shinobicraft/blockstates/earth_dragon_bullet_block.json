@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "shinobicraft:block/earth_dragon_bullet_block"
+    },
+    "facing=east": {
+      "model": "shinobicraft:block/earth_dragon_bullet_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "shinobicraft:block/earth_dragon_bullet_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "shinobicraft:block/earth_dragon_bullet_block",
+      "y": 270
+    }
+  }
+}

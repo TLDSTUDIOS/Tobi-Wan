@@ -1,0 +1,8 @@
+{
+  "parent": "shinobicraft:custom/wind_tunnel_missile",
+  "textures": {
+    "all": "shinobicraft:blocks/windtunneltexture",
+    "particle": "shinobicraft:blocks/windtunneltexture",
+    "0": "shinobicraft:blocks/windtunneltexture"
+  }
+}

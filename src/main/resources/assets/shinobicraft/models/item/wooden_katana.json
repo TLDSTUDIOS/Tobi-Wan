@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/wooden_katana",
+  "textures": {
+    "0": "shinobicraft:blocks/wooden_katana-1.png",
+    "particle": "shinobicraft:items/wooden_katana-1.png"
+  }
+}

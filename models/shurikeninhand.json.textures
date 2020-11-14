@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "kunai-1.png"
+      },
+      "name": "default"
+    }
+  }
+}

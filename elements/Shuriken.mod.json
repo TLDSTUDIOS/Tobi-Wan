@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "shurikencentred-1.png",
+    "customModelName": "Normal",
+    "name": "Shuriken",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NincraftTab"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "ShurikenRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 2.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:ShurikenBlock"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "ShurikenBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "ShurikenBulletHitsPlayer"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/waterreleasebullet",
+  "textures": {
+    "0": "shinobicraft:blocks/flowingwater",
+    "particle": "shinobicraft:items/cleartexture-1.png"
+  }
+}

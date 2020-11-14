@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "chakrapillcentred-1.png",
+    "customModelName": "Normal",
+    "name": "Chakra Pill",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "A small pill that has immense chakra restorative capabilities."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:NincraftTab"
+    },
+    "stackSize": 6,
+    "nutritionalValue": 1,
+    "saturation": 0.3,
+    "eatingSpeed": 20,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ChakraPillFoodEaten"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_fv": 13,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "X",
+    "keyBindingName": "Charge Chakra",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "ChargeChakraOnKeyPressed"
+    },
+    "onKeyReleased": {
+      "name": "ChargeChakraOnKeyReleased"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cleartexture-1.png"
+      },
+      "name": "default"
+    }
+  }
+}

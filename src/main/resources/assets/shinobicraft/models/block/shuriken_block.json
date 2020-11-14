@@ -1,0 +1,8 @@
+{
+  "parent": "shinobicraft:custom/shinshuriken",
+  "textures": {
+    "all": "shinobicraft:blocks/shuriken-1.png",
+    "particle": "shinobicraft:blocks/shuriken-1.png",
+    "0": "shinobicraft:blocks/shuriken-1.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "shinobicraft:custom/clearthinblock",
+  "textures": {
+    "all": "shinobicraft:blocks/cleartexture-1.png",
+    "particle": "shinobicraft:blocks/cleartexture-1.png",
+    "0": "shinobicraft:blocks/cleartexture-1.png"
+  }
+}

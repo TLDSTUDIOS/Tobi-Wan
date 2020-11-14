@@ -1,0 +1,31 @@
+{
+  "_fv": 13,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "crolltem-1.png",
+    "customModelName": "Normal",
+    "name": "Scroll",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:NincraftTab"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A blank scroll."
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "Blankscrollgui",
+    "inventorySize": 0,
+    "inventoryStackSize": 64
+  }
+}

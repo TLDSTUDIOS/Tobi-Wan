@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/samehada",
+  "textures": {
+    "0": "shinobicraft:blocks/samehada",
+    "particle": "shinobicraft:items/samehada"
+  }
+}

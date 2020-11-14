@@ -1,0 +1,8 @@
+{
+  "parent": "shinobicraft:custom/smallspike",
+  "textures": {
+    "all": "shinobicraft:blocks/stonebetter",
+    "particle": "shinobicraft:blocks/stonebetter",
+    "0": "shinobicraft:blocks/stonebetter"
+  }
+}

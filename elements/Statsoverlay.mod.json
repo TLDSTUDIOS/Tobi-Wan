@@ -1,0 +1,309 @@
+{
+  "_fv": 13,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ch100-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cbfullshow"
+          },
+          "name": "ch100-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch95-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb20show"
+          },
+          "name": "ch95-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch90-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb19show"
+          },
+          "name": "ch90-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch85-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb18show"
+          },
+          "name": "ch85-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch80-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb17show"
+          },
+          "name": "ch80-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch75-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb16show"
+          },
+          "name": "ch75-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch70-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb15show"
+          },
+          "name": "ch70-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch65-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb14show"
+          },
+          "name": "ch65-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch60-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb13show"
+          },
+          "name": "ch60-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch55-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb12show"
+          },
+          "name": "ch55-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch50-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb11show"
+          },
+          "name": "ch50-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch45-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb10show"
+          },
+          "name": "ch45-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch40-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb9show"
+          },
+          "name": "ch40-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch35-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb8show"
+          },
+          "name": "ch35-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch30-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb7show"
+          },
+          "name": "ch30-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch25-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb6show"
+          },
+          "name": "ch25-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch20-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb5show"
+          },
+          "name": "ch20-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch15-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb4show"
+          },
+          "name": "ch15-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch10-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb3DisplayOverlayIngame"
+          },
+          "name": "ch10-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch5-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb2"
+          },
+          "name": "ch5-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ch0-1.png.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Cb1"
+          },
+          "name": "ch0-1.png.png",
+          "x": 312,
+          "y": 215
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:integer:currentchakra>",
+          "color": {
+            "value": -16737895,
+            "falpha": 0.0
+          },
+          "name": "<VAR:integer:currentchakra>",
+          "x": 316,
+          "y": 205
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:jutsukeys>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:jutsukeys>",
+          "x": 339,
+          "y": 215
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

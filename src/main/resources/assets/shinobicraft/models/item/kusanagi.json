@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/kusnag",
+  "textures": {
+    "2": "shinobicraft:blocks/kusanagi-1.png",
+    "particle": "shinobicraft:items/kusanagi-1.png"
+  }
+}

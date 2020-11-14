@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/iron_katana",
+  "textures": {
+    "1": "shinobicraft:blocks/iron_katana-1.png",
+    "particle": "shinobicraft:items/iron_katana-1.png"
+  }
+}

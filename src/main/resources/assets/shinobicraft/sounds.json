@@ -1,0 +1,38 @@
+{
+  "jutsu": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "shinobicraft:jutsusound",
+        "stream": false
+      }
+    ]
+  },
+  "poof": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "shinobicraft:poofsound",
+        "stream": false
+      }
+    ]
+  },
+  "handseal": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "shinobicraft:handsealsound",
+        "stream": false
+      }
+    ]
+  },
+  "jump": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "shinobicraft:jump_sound_effect",
+        "stream": false
+      }
+    ]
+  }
+}

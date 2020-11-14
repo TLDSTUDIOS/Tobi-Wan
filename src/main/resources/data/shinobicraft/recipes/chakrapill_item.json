@@ -1,0 +1,42 @@
+{
+  "group": "shinobicraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "1": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "2": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "3": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "4": {
+      "item": "minecraft:blue_orchid"
+    },
+    "5": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "6": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "7": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "8": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "item": "shinobicraft:chakra_pill",
+    "count": 1
+  }
+}

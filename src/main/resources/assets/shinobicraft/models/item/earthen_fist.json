@@ -1,0 +1,7 @@
+{
+  "parent": "shinobicraft:custom/earthenfist",
+  "textures": {
+    "0": "shinobicraft:blocks/coarse_dirt",
+    "particle": "shinobicraft:items/coarse_dirt"
+  }
+}

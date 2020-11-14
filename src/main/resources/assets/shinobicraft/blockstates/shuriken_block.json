@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "shinobicraft:block/shuriken_block"
+    },
+    "facing=east": {
+      "model": "shinobicraft:block/shuriken_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "shinobicraft:block/shuriken_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "shinobicraft:block/shuriken_block",
+      "y": 270
+    }
+  }
+}

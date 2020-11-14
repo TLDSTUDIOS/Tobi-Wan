@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "shinobicraft:blocks/stonebetter",
+    "particle": "shinobicraft:blocks/stonebetter"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 13,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "N",
+    "keyBindingName": "Jutsu Key 4",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "Jscript4"
+    }
+  }
+}

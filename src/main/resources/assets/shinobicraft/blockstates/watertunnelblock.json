@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "shinobicraft:block/watertunnelblock"
+    },
+    "facing=east": {
+      "model": "shinobicraft:block/watertunnelblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "shinobicraft:block/watertunnelblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "shinobicraft:block/watertunnelblock",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "shinobicraft:block/watertunnelblock",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "shinobicraft:block/watertunnelblock",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "coarse_dirt",
+    "customModelName": "earthenfist:default",
+    "name": "Stone Fist",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 7.0,
+    "usageCount": 15,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "EarthenFistRightClickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "ExplosionParticleSmall"
+    },
+    "onItemInInventoryTick": {
+      "name": "EarthenFistToolInInventoryTick"
+    }
+  }
+}

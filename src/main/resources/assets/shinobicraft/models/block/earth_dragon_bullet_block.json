@@ -1,0 +1,8 @@
+{
+  "parent": "shinobicraft:custom/earthdragonbullet",
+  "textures": {
+    "all": "shinobicraft:blocks/dirt",
+    "particle": "shinobicraft:blocks/dirt",
+    "0": "shinobicraft:blocks/dirt"
+  }
+}

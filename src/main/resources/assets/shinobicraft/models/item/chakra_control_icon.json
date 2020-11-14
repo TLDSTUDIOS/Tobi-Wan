@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "shinobicraft:items/cchands-1.png_1"
+  }
+}
